@@ -1,0 +1,5 @@
+1. Para ejecutar en terminal se debe dirigir a la ubicacion de los archivods con el comando cd
+2. posteriormente se debera compilar todos los archivos .cpp con: g++ -std=c++11 *.cpp 
+   (la inclusion de -std=c++11 es solo si marca error por la diferencia se versions, si no aplica e puede omitir)
+3. Una vez compilado el archivo, para ejecutarlo debera ingresar en la terminal el nombre del ejecutable (que por default es a.out)
+   ./a.out
